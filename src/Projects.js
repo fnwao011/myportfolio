@@ -15,7 +15,7 @@ const Projects = () => {
                     </TextContainer>
                     <ImgContainer>
                         <Tilt className="Tilt" options={{ max: 30 }} >
-                            <ProjectImage src='/facesc.png' alt='Project Pic'></ProjectImage>
+                            <ProjectImage src='/facesc.jpg' alt='Project Pic'></ProjectImage>
                         </Tilt>
 
                     </ImgContainer>
@@ -31,7 +31,7 @@ const Projects = () => {
                     </TextContainer>
                     <ImgContainer>
                         <Tilt className="Tilt" options={{ max: 30 }} >
-                            <ProjectImage src='/clinicsc.png' alt='Project Pic'></ProjectImage>
+                            <ProjectImage src='/clinicsc.jpg' alt='Project Pic'></ProjectImage>
                         </Tilt>
 
                     </ImgContainer>
