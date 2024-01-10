@@ -23,11 +23,11 @@ const About = () => {
                     <Right>
                         <BodyText>
                             <ContentWrapper>
-                                Hello! My name is Fabian Nwaoha. I’m currently in my 4th year of Computer Science at the University of Ottawa, and It has been a great experience. I have been coding since high school so reading code is nothing new to me. I’ve bounced from language to language to expand my knowledge and expose myself to different types of programming concepts. When I’m not coding though, I’m either watching sports, studying, or at the gym.
+                                Hello! My name is Fabian Nwaoha. I just finished my BSc in Computer Science at the University of Ottawa, and it was a great experience. I have been coding since high school so reading code is nothing new to me. I’ve bounced from language to language to expand my knowledge and expose myself to different types of programming concepts. When I’m not coding though, I’m either watching sports, studying, or at the gym.
 
                             </ContentWrapper>
                         </BodyText>
-                        <ResumeBtn href='/student.pdf' target="_blank">View Resume</ResumeBtn>
+                        <ResumeBtn href='/Engineering.pdf' target="_blank">View Resume</ResumeBtn>
                     </Right>
                 </InnerWrapper>
 
